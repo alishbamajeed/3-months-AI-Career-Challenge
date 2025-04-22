@@ -38,6 +38,11 @@ print (c < d)
 print (c >= d)
 print (c <= d)
 
+
+x = 10
+y = 5
+print(x > y and y < 3)
+
 #Logical Operators: 
 # and , or , not
 
